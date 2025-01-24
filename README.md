@@ -122,7 +122,7 @@ gator agg 1m
 gator agg 5m
 ```
 
-- `gator addfeed [URL]` - Adds a new RSS feed to track (requires authentication)
+- `gator addfeed [Name] [URL]` - Adds a new RSS feed to track (requires authentication)
 ```bash
 gator addfeed example_feedname "https://blog.exampleurl.com/feed.xml"
 ```
