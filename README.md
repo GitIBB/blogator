@@ -15,6 +15,8 @@ Then, read the output of the command and follow any instructions.
 #### Option 2: Use the official installation instructions, which can be found at https://go.dev/doc/install
 
 
+
+
 ### PostgreSQL 16.6
 #### macOS
 ```bash
