@@ -1,0 +1,19 @@
+# Binary files
+gator
+*.exe
+
+# Config files that might contain sensitive info
+.env
+.gatorconfig.json
+
+# macOS system files
+.DS_Store
+
+# Go specific
+*.test
+*.out
+/vendor/
+
+# IDE specific (if you use them)
+.idea/
+.vscode/
