@@ -1,4 +1,4 @@
-# Gator is a blog aggregator microservice application built in the Go language, using PostgreSQL for database functionality.
+# Blogator is a blog aggregator microservice application built in the Go language, using PostgreSQL for database functionality.
 
 ## Prerequisites
 
